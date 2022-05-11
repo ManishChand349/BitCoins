@@ -31,7 +31,6 @@ function MainContent() {
      </MainContentStyled>
   )
 }
-
 const MainContentStyled = styled.div`
      position: absolute;
      top: 0;
